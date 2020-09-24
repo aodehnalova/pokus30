@@ -9,5 +9,6 @@ namespace pokus30
     class Class1
     {
         //moje trida
+        //dalsi
     }
 }
