@@ -16,5 +16,10 @@ namespace pokus30
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //Zmena Andrea
+        }
     }
 }
