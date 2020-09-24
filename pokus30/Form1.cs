@@ -22,5 +22,6 @@ namespace pokus30
             //Zmena Andrea
         }
         //ahoj
+        //ahoj 2
     }
 }
